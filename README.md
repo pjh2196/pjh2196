@@ -19,7 +19,7 @@
 - Graduation Project (Full-stack App Development)
 - Algorithm practice (Daily)
 - Preparing for 基本情報技術者
-- TOEIC 900+
+- Preparing for TOEIC (Target: 800+)
 
 ---
 
