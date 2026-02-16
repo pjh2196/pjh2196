@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jiho Park 👋
 
-<!--
-**pjh2196/pjh2196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student in Japan  
+🚀 Aspiring Software Engineer  
+🌏 Targeting global tech companies (Amazon, etc.)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- C
+- Java
+- Python
+- REST API
+- Database Design
+
+---
+
+## 📚 Currently Working On
+- Graduation Project (Full-stack App Development)
+- Algorithm practice (Daily)
+- Preparing for 基本情報技術者
+- TOEIC 900+
+
+---
+
+## 💪 Strength
+Consistency and problem-solving mindset.
